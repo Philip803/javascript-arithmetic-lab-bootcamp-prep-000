@@ -10,12 +10,12 @@ function subtract(a, b){
   
 }
 
-function multiplies(a, b){
+function multipy(a, b){
   
   return a * b;
 }
 
-function divides(a, b){
+function divide(a, b){
   
   return a / b;
 }
